@@ -19,8 +19,7 @@
 
 ## Presenter
 
-<img src="presenter/jamel.jpg" width="160" align="left" style="margin-right:16px; margin-bottom:8px;">
-
+<img src="https://www.jamelsaadaoui.com/wp-content/uploads/2022/05/Jamel_Saadaoui_9303ter.png" width="160" align="left" style="margin-right:16px; margin-bottom:8px;">
 **Jamel Saadoui, PhD** · University of Paris 8<br>
 *Current Role: Full time Professor of Economics*<br>
 Fields: Applied Macroeconomics · Political Economics · International Economics

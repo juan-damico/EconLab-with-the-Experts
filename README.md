@@ -134,47 +134,14 @@ The series spans the full landscape of applied quantitative economics:
 
 <br/>
 
-**⬡ Time Series & Forecasting**
-```
-VAR · SVAR · VECM · BVAR · ARIMA · ARCH/GARCH
-State-space models · Kalman filter · ETS · Holt–Winters
-Local projections · ARDL · Markov switching
-```
-
-**⬡ Econometrics**
-```
-OLS · IV · DiD · RDD · Synthetic control · Panel data
-Fixed & random effects · Quantile regression
-Discrete choice (logit/probit) · Tobit
-```
-
-**⬡ Machine Learning & Automation**
-```
-Random forests · XGBoost · LightGBM · Neural networks
-Nowcasting · Data pipelines · API integration
-Web scraping · Scalable workflows
-```
-
-**⬡ Finance & Quantitative Methods**
-```
-Portfolio optimization (Markowitz) · Risk parity
-Volatility modeling (GARCH) · Monte Carlo simulation
-Black–Scholes · Stress testing · Dashboards & KPIs
-```
-
-**⬡ DSGE & General Equilibrium**
-```
-RBC · New Keynesian · Financial frictions
-Heterogeneous agents · Small open economy
-Trade models · MIU/Sidrauski frameworks
-```
-
-**⬡ Applied Macroeconomics**
-```
-Solow · Ramsey · AK · Romer · Search and matching
-OLG models · Recession indicators · Nowcasting
-SVAR-based scenario analysis
-```
+| Area | Scope |
+|------|-------|
+| Time Series & Forecasting | VAR, SVAR, VECM, BVAR, ARIMA, ARCH/GARCH, state-space models (Kalman filter), exponential smoothing (ETS, Holt–Winters), local projections, ARDL, Markov switching |
+| Econometrics | Linear models, IV, DiD, RDD, synthetic control, panel data (fixed and random effects), quantile regression, discrete choice models (logit/probit), Tobit |
+| Machine Learning & Automation | Random forests, gradient boosting (XGBoost, LightGBM), neural networks, nowcasting, data pipelines, API integration, web scraping, scalable workflows |
+| Finance & Quantitative Methods | Portfolio optimization (Markowitz), risk parity, volatility modeling (GARCH), Monte Carlo simulation, Black–Scholes, stress testing, dashboards and KPIs |
+| DSGE & General Equilibrium | RBC, New Keynesian models, financial frictions, heterogeneous agents, small open economy models, trade models, MIU/Sidrauski frameworks |
+| Applied Macroeconomics | Growth models (Solow, Ramsey, AK, Romer), trade, search and matching, OLG models, recession indicators, nowcasting, SVAR-based scenario analysis |
 
 <br/>
 
@@ -184,39 +151,13 @@ SVAR-based scenario analysis
 
 ## ◈ CALL FOR PRESENTERS
 
-<br/>
+EconLab is actively seeking experts to contribute to upcoming episodes.
 
-<div align="center">
+We welcome academic researchers, faculty, and practitioners with a strong applied focus who are interested in presenting their work in a structured and reproducible format.
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   ARE YOU WORKING ON APPLIED ECONOMIC RESEARCH?
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+Selected contributors will receive detailed guidelines and support materials to prepare their session.
 
-</div>
-
-EconLab is actively recruiting **academic researchers, faculty, and practitioners** with applied focus to present their work to a global audience of applied economists.
-
-**What we look for:**
-- Strong applied or empirical component
-- Reproducible methodology
-- Clear, structured presentation
-
-**What contributors receive:**
-- Full production support and episode guidelines
-- Distribution to a dedicated applied economics audience
-- A permanent, citable repository for your work
-
-<div align="center">
-
-<br/>
-
-📩 &nbsp; **[juan.damico@forecastingeconomics.com](mailto:juan.damico@forecastingeconomics.com)**
-
-<br/>
-
-</div>
+juan.damico@forecastingeconomics.com
 
 ---
 

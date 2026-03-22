@@ -62,14 +62,16 @@ Every episode is structured as a self-contained repository with all components r
 
 ## Topics Covered
 
-| Area | Methods |
-|------|---------|
-| Time Series | VAR, SVAR, ARIMA, state-space, cointegration, Kalman filter, Markov switching |
-| Forecasting | Out-of-sample evaluation, forecast combination, density forecasting, scenario analysis |
-| Econometrics | DiD, IV, RDD, synthetic control, panel data, quantile regression |
-| Macro & DSGE | DSGE, RBC, New Keynesian, factor models, asset pricing |
-| Machine Learning | LASSO, random forests, gradient boosting, nowcasting, neural networks |
-| Finance & Quant | Portfolio optimization, volatility modeling, Monte Carlo, stress testing |
+The series focuses on applied, real-world economic problems, combining empirical methods, computational tools, and practical implementation across key areas of modern economics.
+
+| Area | Scope |
+|------|-------|
+| Time Series & Forecasting | VAR, SVAR, VECM, BVAR, ARIMA, ARCH/GARCH, state-space models (Kalman filter), exponential smoothing (ETS, Holt–Winters), local projections, ARDL, Markov switching |
+| Econometrics | Linear models, IV, DiD, RDD, synthetic control, panel data (fixed and random effects), quantile regression, discrete choice models (logit/probit), Tobit |
+| Machine Learning & Automation | Random forests, gradient boosting (XGBoost, LightGBM), neural networks, nowcasting, data pipelines, API integration, web scraping, scalable workflows |
+| Finance & Quantitative Methods | Portfolio optimization (Markowitz), risk parity, volatility modeling (GARCH), Monte Carlo simulation, Black–Scholes, stress testing, dashboards and KPIs |
+| DSGE & General Equilibrium | RBC, New Keynesian models, financial frictions, heterogeneous agents, small open economy models, trade models, MIU/Sidrauski frameworks |
+| Applied Macroeconomics | Growth models (Solow, Ramsey, AK, Romer), trade, search and matching, OLG models, recession indicators, nowcasting, SVAR-based scenario analysis |
 
 ---
 

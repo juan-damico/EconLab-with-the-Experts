@@ -2,11 +2,14 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/juan-damico/forecasting-economics/main/assets/EconLab2.png" width="500" alt="EconLab with the Experts"/>
+<img src="assets/EconLab2.png" width="500" alt="EconLab with the Experts"/>
 
 <br/><br/>
 
-**Expert-led · Fully reproducible · Open access**
+EconLab with the Experts  
+From economic models to real-world applications.
+
+<br/>
 
 [![Subscribe](https://img.shields.io/badge/Subscribe-Forecasting_Economics-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5P21WGFO4WRUlAiGLcwymg?sub_confirmation=1)
 [![Website](https://img.shields.io/badge/Website-forecastingeconomics.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.forecastingeconomics.com)
@@ -19,13 +22,15 @@
 
 ---
 
-## About EconLab
+## Project Overview
 
-**EconLab with the Experts** is a research-oriented seminar series within [Forecasting Economics](https://www.forecastingeconomics.com), featuring PhD-level economists and subject-matter experts presenting **hands-on, fully reproducible applications** of their work.
+**EconLab with the Experts** is a series hosted and promoted by Forecasting Economics, a leading education channel in the applied economics space.
 
-Each episode walks through a real empirical problem — from raw data to code to results — in a format that the audience can follow, replicate, and extend independently.
+The objective of the series is to bridge the gap between theoretical knowledge and practical implementation in economics. While academic training provides strong analytical foundations, opportunities to engage with real-world applications remain limited.
 
-> *Designed for researchers, PhD students, and professionals who want to go beyond theory and engage directly with the tools and methods used at the frontier of applied economics.*
+Each episode features academic researchers and professionals presenting applied economic work in a structured and transparent format, covering the full workflow from data and methodology to implementation and results.
+
+The series provides direct exposure to how economic models are developed, estimated, and implemented in real-world contexts through reproducible, hands-on applications.
 
 ---
 
@@ -33,7 +38,7 @@ Each episode walks through a real empirical problem — from raw data to code to
 
 | # | Topic | Presenter | Affiliation | Video | Repo |
 |---|-------|-----------|-------------|:-----:|:----:|
-| [01](./Episode-01-VAR-Forecasting) | **TBC** | Jamel Saadoui, PhD | University of Paris 8 | [![▶](https://img.shields.io/badge/▶-Watch-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com) | [![⌥](https://img.shields.io/badge/⌥-Code-1a1a2e?style=flat-square&logo=github&logoColor=white)](./Episode-01-VAR-Forecasting) |
+| [01](./Episode-01-VAR-Forecasting/) | **TBC** | Jamel Saadoui, PhD | University of Paris 8 | [![▶](https://img.shields.io/badge/▶-Watch-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com) | [![⌥](https://img.shields.io/badge/⌥-Code-1a1a2e?style=flat-square&logo=github&logoColor=white)](./Episode-01-VAR-Forecasting/) |
 | 02 | *Coming soon* | — | — | — | — |
 | 03 | *Coming soon* | — | — | — | — |
 
@@ -43,15 +48,15 @@ Each episode walks through a real empirical problem — from raw data to code to
 
 ## What Each Episode Includes
 
-Every episode ships as a self-contained GitHub repository with everything needed to replicate the analysis from scratch:
+Every episode is structured as a self-contained repository with all components required to replicate the analysis:
 
 | | |
 |:---:|:---|
-| 📂 | **`code/`** — Fully replicable scripts |
-| 📊 | **`data/`** — Dataset used in the tutorial |
-| 📈 | **`figures/`** — All output figures and results |
-| 📑 | **`slides/`** — Presentation slides |
-| 📚 | **`paper/`** — References and further reading |
+| `code/` | Fully replicable scripts |
+| `data/` | Dataset used in the analysis |
+| `figures/` | Output figures and results |
+| `slides/` | Presentation materials |
+| `paper/` | References and supporting material |
 
 ---
 
@@ -59,46 +64,46 @@ Every episode ships as a self-contained GitHub repository with everything needed
 
 | Area | Methods |
 |------|---------|
-| 📈 **Time Series** | VAR, SVAR, ARIMA, state-space, cointegration, Kalman filter, Markov switching |
-| 🔮 **Forecasting** | Out-of-sample evaluation, forecast combination, density forecasting, scenario analysis |
-| 📐 **Econometrics** | DiD, IV, RDD, synthetic control, panel data, quantile regression |
-| ⚙️ **Macro & DSGE** | DSGE, RBC, New Keynesian, factor models, asset pricing |
-| 🤖 **ML in Economics** | LASSO, random forests, gradient boosting, nowcasting, neural networks |
-| 💹 **Finance & Quant** | Portfolio optimization, volatility modeling, Monte Carlo, stress testing |
+| Time Series | VAR, SVAR, ARIMA, state-space, cointegration, Kalman filter, Markov switching |
+| Forecasting | Out-of-sample evaluation, forecast combination, density forecasting, scenario analysis |
+| Econometrics | DiD, IV, RDD, synthetic control, panel data, quantile regression |
+| Macro & DSGE | DSGE, RBC, New Keynesian, factor models, asset pricing |
+| Machine Learning | LASSO, random forests, gradient boosting, nowcasting, neural networks |
+| Finance & Quant | Portfolio optimization, volatility modeling, Monte Carlo, stress testing |
 
 ---
 
 ## Call for Presenters
 
-**EconLab is actively seeking experts to present in upcoming episodes.**
+EconLab is actively seeking experts to contribute to upcoming episodes.
 
-We welcome PhD economists, academic researchers, faculty, and practitioners with a strong applied focus who are interested in sharing their work with a global community of economists, students, and enthusiasts.
+We welcome academic researchers, faculty, and practitioners with a strong applied focus who are interested in presenting their work in a structured and reproducible format.
 
-Reach out and you will receive a full package with all the details, guidelines, and templates needed to prepare your session.
+Selected contributors will receive detailed guidelines and support materials to prepare their session.
 
-📧 [juan.damico@forecastingeconomics.com](mailto:juan.damico@forecastingeconomics.com)
+juan.damico@forecastingeconomics.com
 
 ---
 
 ## License & Intellectual Property
 
-All content in this repository is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+All content in this repository is licensed under CC BY-NC-ND 4.0.
 
-© **Forecasting Economics — EconLab with Experts**. All rights reserved.
+© Forecasting Economics — EconLab with the Experts.
 
-Content may not be used for commercial purposes or reproduced without proper citation. Each episode's intellectual content belongs to its presenter as the intellectual author. For permissions: [juan.damico@forecastingeconomics.com](mailto:juan.damico@forecastingeconomics.com)
+Each episode's intellectual content remains the property of its respective author. For permissions and inquiries, please contact: juan.damico@forecastingeconomics.com
 
 ---
 
 <div align="center">
 
-*Part of [Forecasting Economics](https://www.forecastingeconomics.com) — Applied econometrics, time series analysis, and forecasting.*
+Forecasting Economics — Applied econometrics, time series analysis, and forecasting
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5P21WGFO4WRUlAiGLcwymg?sub_confirmation=1)
 [![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.forecastingeconomics.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juandamico)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juan.damico)
 
-<sub>EconLab with Experts · Forecasting Economics · 2026</sub>
+<sub>EconLab with the Experts · 2026</sub>
 
 </div>

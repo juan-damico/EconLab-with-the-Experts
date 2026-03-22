@@ -19,17 +19,20 @@
 
 ## Presenter
 
-<img src="https://www.jamelsaadaoui.com/wp-content/uploads/2022/05/Jamel_Saadaoui_9303ter.png" width="160" align="left" style="margin-right:16px; margin-bottom:8px;">
-**Jamel Saadoui, PhD** · University of Paris 8<br>
-*Current Role: Full time Professor of Economics*<br>
+<img src="https://www.jamelsaadaoui.com/wp-content/uploads/2022/05/Jamel_Saadaoui_9303ter.png" width="160" align="left" style="margin-right:20px; margin-bottom:8px;">
+
+<strong>Jamel Saadoui, PhD</strong> · University of Paris 8<br/>
+<em>Current Role: Full time Professor of Economics</em><br/>
 Fields: Applied Macroeconomics · Political Economics · International Economics
 
-📧 [email@domain.com](mailto:email@domain.com) &nbsp;·&nbsp;
-🔗 [LinkedIn](https://www.linkedin.com/in/pr-jamel-saadaoui-7979461a5/) &nbsp;·&nbsp;
-📄 [Google Scholar](https://scholar.google.com/citations?user=DkhUQ-gAAAAJ&hl=en&oi=ao) &nbsp;·&nbsp;
-📑 [SSRN](https://ssrn.com)
+<br/>
 
-<br clear="left">
+📧 <a href="mailto:email@domain.com">email@domain.com</a> &nbsp;·&nbsp;
+🔗 <a href="https://www.linkedin.com/in/pr-jamel-saadaoui-7979461a5/">LinkedIn</a> &nbsp;·&nbsp;
+📄 <a href="https://scholar.google.com/citations?user=DkhUQ-gAAAAJ&hl=en&oi=ao">Google Scholar</a> &nbsp;·&nbsp;
+📑 <a href="https://ssrn.com">SSRN</a>
+
+<br clear="left"/>
 
 ---
 

@@ -74,7 +74,7 @@ The series is built around three principles:
 <tbody>
 <tr>
 <td align="center"><strong>01</strong></td>
-<td><strong>VAR Forecasting</strong><br/><sub>Vector Autoregressions in Applied Macroeconomics</sub></td>
+<td><strong>TBC</strong><br/><sub>Topic in Applied Macroeconomics</sub></td>
 <td>Jamel Saadoui, PhD</td>
 <td>University of Paris 8</td>
 <td align="center"><a href="https://youtube.com"><img src="https://img.shields.io/badge/WATCH-CC0000?style=flat-square&logo=youtube&logoColor=white"/></a></td>

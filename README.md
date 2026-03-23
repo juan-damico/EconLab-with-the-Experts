@@ -2,25 +2,22 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/juan-damico/forecasting-economics/main/assets/EconLab2.png" width="420"/>
+<img src="https://avatars.githubusercontent.com/juan-damico" width="110" style="border-radius:50%;" alt="Juan D'Amico"/>
+
+<br/><br/>
+
+# JUAN NICOLÁS D'AMICO
+
+<sub>ECONOMIST &nbsp;·&nbsp; RESEARCHER &nbsp;·&nbsp; EDUCATOR</sub>
 
 <br/>
 
-# ECONLAB WITH THE EXPERTS
-
-### From economic models to real-world applications
-
-<br/>
-
-```
-Bridging academic rigor with applied economic practice
-```
-
-<br/>
-
-[![Subscribe](https://img.shields.io/badge/▶_SUBSCRIBE-Forecasting_Economics-CC0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5P21WGFO4WRUlAiGLcwymg?sub_confirmation=1)
-&nbsp;
-[![Website](https://img.shields.io/badge/🌐_WEBSITE-forecastingeconomics.com-0d1117?style=for-the-badge)](https://www.forecastingeconomics.com)
+[![Website](https://img.shields.io/badge/forecastingeconomics.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.forecastingeconomics.com)
+[![YouTube](https://img.shields.io/badge/YouTube-CC0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ForecastingEconomics)
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=cuTdiWkAAAAJ&hl=en)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juan.damico)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/course/introductory-course-to-dsge-models-in-matlab-dynare/?instructorPreviewMode=guest#instructor-1)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juan.damico@forecastingeconomics.com)
 
 <br/>
 
@@ -30,21 +27,13 @@ Bridging academic rigor with applied economic practice
 
 <br/>
 
-## ABOUT THE SERIES
+## EDUCATION
 
-**EconLab with the Experts** is a practitioner-facing series produced by **Forecasting Economics** — one of the leading applied economics education channels.
-
-Each episode features a researcher or professional walking through a complete applied workflow: from raw data and model specification, through estimation and implementation, to reproducible results.
-
-> _"The gap between knowing the theory and running the model is where most graduates get stuck. EconLab closes that gap."_
-
-The series is built around three principles:
-
-| | |
-|:---:|:---|
-| **Transparency** | Every step is documented and reproducible |
-| **Depth** | Real models, real data, real decisions |
-| **Accessibility** | Structured for applied economists at all levels |
+| Degree | Institution |
+|:---|:---|
+| B.Sc. Economics | University of Buenos Aires (UBA) |
+| M.Sc. Business Economics | Wilfrid Laurier University |
+| M.Sc. Economics | University of Waterloo |
 
 <br/>
 
@@ -52,54 +41,13 @@ The series is built around three principles:
 
 <br/>
 
-## EPISODE INDEX
+## ABOUT
 
-<br/>
+Juan is an economist specializing in **macroeconomic analysis**, **forecasting**, and **DSGE modeling**. With graduate degrees from Wilfrid Laurier University and the University of Waterloo, he applies econometric and statistical methods to empirical macroeconomic questions across research, policy, and education.
 
-> **Season 1 — Now Airing**
+His work combines rigorous economic theory with applied quantitative tools — **EViews**, **Stata**, **Python**, **R**, and **MATLAB/Dynare** — spanning forecasting, structural modeling, and empirical analysis.
 
-<br/>
-
-<table>
-<thead>
-<tr>
-<th align="center">EP.</th>
-<th>TOPIC</th>
-<th>PRESENTER</th>
-<th>AFFILIATION</th>
-<th align="center">VIDEO</th>
-<th align="center">REPOSITORY</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><strong>01</strong></td>
-<td><strong>Topic to be confirmed</strong><br/><sub>Topic in applied economics</sub></td>
-<td>Jamel Saadoui, PhD</td>
-<td>University of Paris 8</td>
-<td align="center"><a href="https://youtube.com"><img src="https://img.shields.io/badge/WATCH-CC0000?style=flat-square&logo=youtube&logoColor=white"/></a></td>
-<td align="center"><a href="./Episode-01-VAR-Forecasting/"><img src="https://img.shields.io/badge/REPOSITORY-0d1117?style=flat-square&logo=github&logoColor=white"/></a></td>
-</tr>
-<tr>
-<td align="center"><strong>02</strong></td>
-<td><em>Coming Soon</em></td>
-<td>—</td>
-<td>—</td>
-<td align="center">—</td>
-<td align="center">—</td>
-</tr>
-<tr>
-<td align="center"><strong>03</strong></td>
-<td><em>Coming Soon</em></td>
-<td>—</td>
-<td>—</td>
-<td align="center">—</td>
-<td align="center">—</td>
-</tr>
-</tbody>
-</table>
-
-<sub>New episodes added regularly — <a href="https://www.youtube.com/channel/UC5P21WGFO4WRUlAiGLcwymg">watch the full series →</a></sub>
+Since 2020, he has worked as an Economist at **Statistics Canada**. Prior to that, he spent three years at **Sun Life Financial Services** in the mutual funds industry. He has also held multiple teaching assistant roles at the **University of Buenos Aires**, **Wilfrid Laurier University**, and the **University of Waterloo**.
 
 <br/>
 
@@ -107,20 +55,25 @@ The series is built around three principles:
 
 <br/>
 
-## EPISODE STRUCTURE
-
-Each episode ships as a **self-contained, fully reproducible repository**:
+## RESEARCH INTERESTS
 
 ```
-Episode-XX/
-├── code/          ← Fully replicable scripts
-├── data/          ← Dataset used in the analysis
-├── figures/       ← Output figures and results
-├── slides/        ← Presentation materials
-└── paper/         ← References and supporting material
+Macroeconomic Forecasting      Time Series Econometrics
+DSGE Structural Modelling      Empirical Macroeconomics
+Macroeconometric Analysis      Economic Policy Analysis
 ```
 
-No black boxes. Every result can be traced back to the raw data.
+<br/>
+
+---
+
+<br/>
+
+## TOOLS & METHODS
+
+| Econometric Software | Programming | Other |
+|:---:|:---:|:---:|
+| EViews · Stata · MATLAB · Dynare | Python · R | LaTeX · Git |
 
 <br/>
 
@@ -128,20 +81,11 @@ No black boxes. Every result can be traced back to the raw data.
 
 <br/>
 
-## TOPICS COVERED
+## ECONLAB WITH THE EXPERTS
 
-The series spans the full landscape of applied quantitative economics:
+**[EconLab with the Experts](https://github.com/juan-damico/forecasting-economics/tree/main/EconLab-with-the-Experts)** is a seminar series produced by Forecasting Economics, bringing together PhD economists, researchers, and practitioners to bridge the gap between academic theory and real-world applied economics.
 
-<br/>
-
-| Area | Scope |
-|------|-------|
-| Time Series & Forecasting | VAR, SVAR, VECM, BVAR, ARIMA, ARCH/GARCH, state-space models (Kalman filter), exponential smoothing (ETS, Holt–Winters), local projections, ARDL, Markov switching |
-| Econometrics | Linear models, IV, DiD, RDD, synthetic control, panel data (fixed and random effects), quantile regression, discrete choice models (logit/probit), Tobit |
-| Machine Learning & Automation | Random forests, gradient boosting (XGBoost, LightGBM), neural networks, nowcasting, data pipelines, API integration, web scraping, scalable workflows |
-| Finance & Quantitative Methods | Portfolio optimization (Markowitz), risk parity, volatility modeling (GARCH), Monte Carlo simulation, Black–Scholes, stress testing, dashboards and KPIs |
-| DSGE & General Equilibrium | RBC, New Keynesian models, financial frictions, heterogeneous agents, small open economy models, trade models, MIU/Sidrauski frameworks |
-| Applied Macroeconomics | Growth models (Solow, Ramsey, AK, Romer), trade, search and matching, OLG models, recession indicators, nowcasting, SVAR-based scenario analysis |
+Each episode features a researcher presenting a complete applied workflow — from data and methodology through implementation and reproducible results.
 
 <br/>
 
@@ -149,27 +93,17 @@ The series spans the full landscape of applied quantitative economics:
 
 <br/>
 
-## CALL FOR PRESENTERS
+## LINKS
 
-EconLab is actively seeking experts to contribute to upcoming episodes.
+**[forecastingeconomics.com](https://www.forecastingeconomics.com)** — Website
 
-We welcome academic researchers, faculty, and practitioners with a strong applied focus who are interested in presenting their work in a structured and reproducible format.
+**[Forecasting Economics](https://www.youtube.com/@ForecastingEconomics)** — YouTube · Applied econometrics and macroeconomic forecasting
 
-Selected contributors will receive detailed guidelines and support materials to prepare their session.
+**[Introductory Course to DSGE Models in MATLAB/Dynare](https://www.udemy.com/course/introductory-course-to-dsge-models-in-matlab-dynare/?instructorPreviewMode=guest#instructor-1)** — Udemy
 
-juan.damico@forecastingeconomics.com
+**[Research & Publications](https://scholar.google.com/citations?user=cuTdiWkAAAAJ&hl=en)** — Google Scholar
 
----
-
-<br/>
-
-## LICENSE & INTELLECTUAL PROPERTY
-
-All series content is released under **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)**.
-
-The intellectual content of each episode remains the exclusive property of its respective presenter. The series format, branding, and production are © **Forecasting Economics**.
-
-For permissions and inquiries: [juan.damico@forecastingeconomics.com](mailto:juan.damico@forecastingeconomics.com)
+**[forecasting-economics](https://github.com/juan-damico/forecasting-economics)** — GitHub Repository
 
 <br/>
 
@@ -179,21 +113,16 @@ For permissions and inquiries: [juan.damico@forecastingeconomics.com](mailto:jua
 
 <div align="center">
 
-<a href="https://www.forecastingeconomics.com">
-  <img src="https://raw.githubusercontent.com/juan-damico/forecasting-economics/main/assets/Large-2.png" width="160" alt="Forecasting Economics"/>
-</a>
+<img src="https://raw.githubusercontent.com/juan-damico/forecasting-economics/main/assets/Large-2.png" width="140" alt="Forecasting Economics"/>
 
 <br/><br/>
 
-[![YouTube](https://img.shields.io/badge/YouTube-CC0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5P21WGFO4WRUlAiGLcwymg?sub_confirmation=1)
-[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.forecastingeconomics.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juandamico)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juan.damico)
+<sub>Open to collaborations in macroeconomic research, forecasting, and educational content</sub>
 
 <br/>
 
-<sub>EconLab with the Experts &nbsp;·&nbsp; Forecasting Economics &nbsp;·&nbsp; 2026</sub>
+<sub>juan.damico@forecastingeconomics.com &nbsp;·&nbsp; forecastingeconomics.com</sub>
 
-<br/>
+<br/><br/>
 
 </div>

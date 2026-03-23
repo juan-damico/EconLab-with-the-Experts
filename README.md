@@ -34,14 +34,15 @@ Bridging academic rigor with applied economic practice
 
 **EconLab with the Experts** is a practitioner-facing series produced by **Forecasting Economics** — one of the leading applied economics education channels.
 
-Each episode features a researcher or professional walking through a complete applied workflow: from raw data and model specification, through estimation and implementation, to reproducible results.
+Each episode is led by an active academic researcher or senior practitioner — economists who publish, teach at the university level, and work at the frontier of their field. They present their own applied work: real models, real data, real decisions, documented from start to finish in a fully reproducible format.
 
 > _"The gap between knowing the theory and running the model is where most graduates get stuck. EconLab closes that gap."_
 
-The series is built around three principles:
+The series is built around four principles:
 
 | | |
 |:---:|:---|
+| **Expert-Led** | Each episode is presented by a researcher or practitioner of the highest academic calibre |
 | **Transparency** | Every step is documented and reproducible |
 | **Depth** | Real models, real data, real decisions |
 | **Accessibility** | Structured for applied economists at all levels |

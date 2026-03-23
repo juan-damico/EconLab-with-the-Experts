@@ -42,10 +42,10 @@ The series is built around four principles:
 
 | | |
 |:---:|:---|
-| **Expert-Led** | Each episode is presented by a researcher or practitioner of the highest academic calibre |
+| **Expert-Led** | Each episode is presented by academics working at the frontier of applied and empirical economics |
 | **Transparency** | Every step is documented and reproducible |
 | **Depth** | Real models, real data, real decisions |
-| **Accessibility** | Structured for applied economists at all levels |
+| **Accessibility** |An open, high-value resource for economists, finance professionals, and applied researchers looking to engage with advanced, real-world models |
 
 <br/>
 

@@ -21,16 +21,16 @@
 
 <img src="https://media.licdn.com/dms/image/v2/C4D03AQHK8gusQVNNNQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1599928939138?e=1779926400&v=beta&t=KMO1sNYnAty9nN2Ybmjk7af0IwfR2WY8LoqiS6tWeXo" width="160" align="left" style="margin-right:20px; margin-bottom:8px;">
 
-<strong>Jamel Saadoui, PhD</strong> · University of Paris 8<br/>
-<em>Current Role: Full time Professor of Economics</em><br/>
-Fields: Applied Macroeconomics · Political Economics · International Economics
+<strong>Tim Ginker, PhD</strong> · Bank of Israel <br/>
+<em>Current Role: Econometrician</em><br/>
+Fields: Applied Macroeconomics · Time Series Econometrics 
 
 <br/>
 
-📧 <a href="mailto:email@domain.com">email@domain.com</a> &nbsp;·&nbsp;
-🔗 <a href="https://www.linkedin.com/in/pr-jamel-saadaoui-7979461a5/">LinkedIn</a> &nbsp;·&nbsp;
-📄 <a href="https://scholar.google.com/citations?user=DkhUQ-gAAAAJ&hl=en&oi=ao">Google Scholar</a> &nbsp;·&nbsp;
-📑 <a href="https://ssrn.com">SSRN</a>
+📧 <a href="mailto:timginker@gmail.com">Email Me</a> &nbsp;·&nbsp;
+🔗 <a href="https://www.linkedin.com/in/tim-ginker/">LinkedIn</a> &nbsp;·&nbsp;
+📄 <a href="https://scholar.google.com/citations?user=fWxgZdMAAAAJ&hl=en&oi=ao">Google Scholar</a> &nbsp;·&nbsp;
+📑 <a href="https://github.com/timginker/cforecast">Personal Github</a>
 
 <br clear="left"/>
 
@@ -38,7 +38,7 @@ Fields: Applied Macroeconomics · Political Economics · International Economics
 
 ## Overview
 
-This tutorial introduces the **Vector Autoregression (VAR)** framework and provides a hands-on implementation for forecasting applications. We estimate a bivariate VAR(1) model, assess model fit, and generate out-of-sample forecasts with impulse response analysis.
+In the present tutorial, Dr. Ginker introduces the main functionalities of `cforecast`, an R package for scenario analysis in reduced-form VAR models. The tutorial demonstrates how to generate conditional forecasts using a Kalman filtering framework, impose path restrictions on selected variables, and decompose forecast revisions into variable-specific contributions. It also illustrates how to evaluate the relative importance of variables in shaping forecast outcomes, highlighting applications to policy analysis, stress testing, and macro-financial forecasting.
 
 **What you will learn:**
 - How to specify and estimate a VAR model
@@ -168,6 +168,8 @@ If you use this material in your research or teaching, please cite the intellect
 ```
 
 ---
+## Disclaimer
+The views expressed here are solely of the author and do not necessarily represent the views of the Bank of Israel or Bar-Ilan University
 
 ## License & Intellectual Property
 

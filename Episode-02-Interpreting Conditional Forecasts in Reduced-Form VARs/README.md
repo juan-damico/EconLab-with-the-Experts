@@ -79,7 +79,6 @@ For further technical details, methodological discussion, and additional documen
 🔗 https://github.com/timginker/cforecast
 
 ---
----
 
 ## Disclaimer
 

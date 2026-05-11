@@ -40,54 +40,6 @@ Fields: Applied Macroeconomics · Time Series Econometrics
 
 In the present tutorial, Dr. Ginker introduces the main functionalities of `cforecast`, an R package for scenario analysis in reduced-form VAR models. The tutorial demonstrates how to generate conditional forecasts using a Kalman filtering framework, impose path restrictions on selected variables, and decompose forecast revisions into variable-specific contributions. It also illustrates how to evaluate the relative importance of variables in shaping forecast outcomes, highlighting applications to policy analysis, stress testing, and macro-financial forecasting.
 
-**What you will learn:**
-- How to specify and estimate a VAR model
-- How to interpret coefficient matrices and lag structure
-- How to produce and visualize forecasts and impulse response functions
-
----
-
-## Video Tutorial
-
-[![Watch the tutorial](https://img.youtube.com/vi/SAfLK8Ji2ZM/maxresdefault.jpg)](https://www.youtube.com/watch?v=SAfLK8Ji2ZM)
-
-> *Click the thumbnail to watch on YouTube.*
-
----
-
-## Mathematical Representation
-
-A bivariate VAR(1) model is defined as:
-
-$$
-Y_t = c + A_1 Y_{t-1} + \varepsilon_t
-$$
-
-where:
-
-| Symbol | Definition |
-|--------|-----------|
-| $Y_t \in \mathbb{R}^2$ | Vector of endogenous variables at time $t$ |
-| $c \in \mathbb{R}^2$ | Intercept vector |
-| $A_1 \in \mathbb{R}^{2 \times 2}$ | Coefficient matrix at lag 1 |
-| $\varepsilon_t \sim \mathcal{N}(0, \Sigma)$ | Vector of white noise innovations |
-
-For a general VAR($p$) specification:
-
-$$
-Y_t = c + \sum_{k=1}^{p} A_k Y_{t-k} + \varepsilon_t
-$$
-
-Stability requires that all eigenvalues of the companion matrix lie **inside the unit circle**.
-
----
-
-## Results
-
-![Actual vs Fitted](figures/actual_vs_fitted_foreign.png)
-
-The figure compares in-sample fitted values against observed data. The model captures the main cyclical dynamics, with residuals consistent with the white noise assumption.
-
 ---
 
 ## Repository Structure
@@ -100,26 +52,6 @@ Episode-01-VAR-Forecasting/
 ├── paper/          # References and related readings
 ├── slides/         # Presentation slides
 └── README.md
-```
-
----
-
-## Quick Start
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/your-org/Episode-01-VAR-Forecasting.git
-cd Episode-01-VAR-Forecasting
-
-# 2. Install required packages (R)
-Rscript code/install_packages.R
-
-# 3. Run the main script
-Rscript code/main.R
-
-# 4. Outputs will appear in figures/
-```
-
 ---
 
 ## Requirements

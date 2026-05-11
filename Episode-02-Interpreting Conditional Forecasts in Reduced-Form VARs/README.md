@@ -45,7 +45,7 @@ In the present tutorial, Dr. Ginker introduces the main functionalities of `cfor
 ## Repository Structure
 
 ```text
-Episode-01-VAR-Forecasting/
+Episode-02-Interpreting Conditional Forecasts in Reduced-Form VARs/
 ├── code/           # Replication scripts
 ├── data/           # Dataset
 ├── figures/        # Output figures and plots

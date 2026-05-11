@@ -44,7 +44,7 @@ In the present tutorial, Dr. Ginker introduces the main functionalities of `cfor
 
 ## Repository Structure
 
-```
+```text
 Episode-01-VAR-Forecasting/
 ├── code/           # Replication scripts
 ├── data/           # Dataset
@@ -52,6 +52,8 @@ Episode-01-VAR-Forecasting/
 ├── paper/          # References and related readings
 ├── slides/         # Presentation slides
 └── README.md
+```
+
 ---
 
 ## Citation
@@ -70,9 +72,10 @@ If you use this material in your research or teaching, please cite the intellect
 ```
 
 ---
-## Disclaimer
-The views expressed here are solely of the author and do not necessarily represent the views of the Bank of Israel or Bar-Ilan University
 
+## Disclaimer
+
+The views expressed here are solely those of the author and do not necessarily represent the views of the Bank of Israel or Bar-Ilan University.
 ## License & Intellectual Property
 
 This material is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).

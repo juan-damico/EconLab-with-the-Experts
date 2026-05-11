@@ -158,12 +158,13 @@ Expected runtime: < 1 minute on a standard laptop.
 If you use this material in your research or teaching, please cite the intellectual author of this episode:
 
 ```bibtex
-@misc{saadoui2025var,
-  author    = {Saadoui, Jamel},
-  title     = {VAR Forecasting — {EconLab} Tutorial Series, Episode 01},
-  year      = {2025},
-  publisher = {Forecasting Economics — EconLab with Experts},
-  url       = {https://github.com/your-org/Episode-01-VAR-Forecasting}
+@techreport{CaspiGinker2026,
+  author       = {Itamar Caspi and Tim Ginker},
+  title        = {What Drives the Scenario? Interpreting Conditional Forecasts in Reduced-Form VARs},
+  year         = {2026},
+  institution  = {ResearchGate},
+  url          = {https://www.researchgate.net/publication/401240812_What_Drives_the_Scenario_Interpreting_Conditional_Forecasts_in_Reduced-Form_VARs},
+  note         = {Accessed: 2026-05-10}
 }
 ```
 

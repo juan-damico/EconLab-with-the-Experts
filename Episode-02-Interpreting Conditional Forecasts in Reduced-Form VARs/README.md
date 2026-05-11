@@ -54,22 +54,6 @@ Episode-01-VAR-Forecasting/
 └── README.md
 ---
 
-## Requirements
-
-**R (≥ 4.1.0)**
-
-```r
-install.packages(c("vars", "ggplot2", "tseries", "forecast", "dplyr"))
-```
-
-| Package | Version | Purpose |
-|---------|---------|---------|
-| `vars` | ≥ 1.5 | VAR estimation and IRF |
-| `ggplot2` | ≥ 3.4 | Visualization |
-| `tseries` | ≥ 0.10 | Unit root tests |
-| `forecast` | ≥ 8.21 | Forecasting utilities |
-| `dplyr` | ≥ 1.1 | Data manipulation |
-
 ---
 
 ## Replication

@@ -27,7 +27,7 @@ Fields: Applied Macroeconomics · Time Series Econometrics
 
 <br/>
 
-📧 <a href="mailto:timginker@gmail.com">Email Me</a> &nbsp;·&nbsp;
+📧 <a href="mailto:timginker@gmail.com">Contact</a> &nbsp;·&nbsp;
 🔗 <a href="https://www.linkedin.com/in/tim-ginker/">LinkedIn</a> &nbsp;·&nbsp;
 📄 <a href="https://scholar.google.com/citations?user=fWxgZdMAAAAJ&hl=en&oi=ao">Google Scholar</a> &nbsp;·&nbsp;
 📑 <a href="https://github.com/timginker/cforecast">Personal Github</a>

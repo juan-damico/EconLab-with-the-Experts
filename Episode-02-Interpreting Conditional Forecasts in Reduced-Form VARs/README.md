@@ -54,21 +54,6 @@ Episode-01-VAR-Forecasting/
 └── README.md
 ---
 
----
-
-## Replication
-
-All results in this tutorial are fully replicable. Run the scripts in the following order:
-
-```r
-source("code/install_packages.R")   # Install dependencies
-source("code/main.R")               # Run full analysis
-```
-
-Expected runtime: < 1 minute on a standard laptop.
-
----
-
 ## Citation
 
 If you use this material in your research or teaching, please cite the intellectual author of this episode:

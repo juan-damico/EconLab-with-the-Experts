@@ -70,7 +70,15 @@ If you use this material in your research or teaching, please cite the intellect
   note         = {Accessed: 2026-05-10}
 }
 ```
+---
 
+## Additional Technical Resources
+
+For further technical details, methodological discussion, and additional documentation related to the underlying research paper and the `cforecast` package, please visit the official repository maintained by **Tim Ginker, PhD**:
+
+🔗 https://github.com/timginker/cforecast
+
+---
 ---
 
 ## Disclaimer

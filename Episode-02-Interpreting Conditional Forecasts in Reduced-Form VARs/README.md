@@ -46,9 +46,6 @@ In the present tutorial, Dr. Ginker introduces the main functionalities of `cfor
 
 ```text
 Episode-02-Interpreting Conditional Forecasts in Reduced-Form VARs/
-├── code/           # Replication scripts
-├── data/           # Dataset
-├── figures/        # Output figures and plots
 ├── paper/          # References and related readings
 ├── slides/         # Presentation slides
 └── README.md

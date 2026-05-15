@@ -45,7 +45,7 @@ The series is built around four principles:
 | **Expert-Led** | Each episode is presented by academics working at the frontier of applied and empirical economics |
 | **Transparency** | Every step is documented and reproducible |
 | **Depth** | Real models, real data, real decisions |
-| **Accessibility** |An open, high-value resource for economists, finance professionals, and applied researchers looking to engage with advanced, real-world models |
+| **Accessibility** | An open, high-value resource for economists, finance professionals, and applied researchers looking to engage with advanced, real-world models |
 
 <br/>
 
@@ -76,10 +76,10 @@ The series is built around four principles:
 <tr>
 <td align="center"><strong>01</strong></td>
 <td><strong>VAR Forecasting</strong><br/><sub>Interpreting Conditional Forecasts in Reduced-Form VARs</sub></td>
-<td>Tim Ginker</td>
+<td>Tim Ginker, PhD</td>
 <td>Bank of Israel</td>
 <td align="center"><a href="https://youtube.com"><img src="https://img.shields.io/badge/WATCH-CC0000?style=flat-square&logo=youtube&logoColor=white"/></a></td>
-<td align="center"><a href="./Episode-01-VAR-Forecasting/"><img src="https://img.shields.io/badge/REPOSITORY-0d1117?style=flat-square&logo=github&logoColor=white"/></a></td>
+<td align="center"><a href="https://github.com/juan-damico/EconLab-with-the-Experts/tree/main/Episode-01-Interpreting%20Conditional%20Forecasts%20in%20Reduced-Form%20VARs"><img src="https://img.shields.io/badge/REPOSITORY-0d1117?style=flat-square&logo=github&logoColor=white"/></a></td>
 </tr>
 
 <tr>
@@ -160,7 +160,7 @@ We welcome academic researchers, faculty, and practitioners with a strong applie
 
 Selected contributors will receive detailed guidelines and support materials to prepare their session.
 
-juan.damico@forecastingeconomics.com
+📧 [juan.damico@forecastingeconomics.com](mailto:juan.damico@forecastingeconomics.com)
 
 ---
 
@@ -168,9 +168,11 @@ juan.damico@forecastingeconomics.com
 
 ## LICENSE & INTELLECTUAL PROPERTY
 
-All series content is released under **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)**.
+All series content is released under **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
 
-The intellectual content of each episode remains the exclusive property of its respective presenter. The series format, branding, and production are © **Forecasting Economics**.
+You are free to use and build upon this material for non-commercial purposes, provided you give appropriate credit to the presenter and this repository, and share any derivative work under the same license. Commercial use is not permitted.
+
+The intellectual content of each episode remains the property of its respective presenter. The series format, branding, and production are © **Forecasting Economics**.
 
 For permissions and inquiries: [juan.damico@forecastingeconomics.com](mailto:juan.damico@forecastingeconomics.com)
 

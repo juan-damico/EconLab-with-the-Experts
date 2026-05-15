@@ -9,9 +9,10 @@
 ## Episode 01 — What Drives the Scenario? Interpreting Conditional Forecasts in Reduced-Form VARs
 
 ![Language](https://img.shields.io/badge/R-4.3-276DC3?style=flat-square&logo=r&logoColor=white)
+![CRAN](https://img.shields.io/cran/v/cforecast?style=flat-square&label=CRAN&color=276DC3)
 ![Status](https://img.shields.io/badge/status-replication--ready-4a7c59?style=flat-square)
 ![Series](https://img.shields.io/badge/EconLab-Episode%2001-1a1a2e?style=flat-square)
-![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%204.0-lightgrey?style=flat-square)
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square)
 
 </div>
 
@@ -42,6 +43,16 @@ In the present tutorial, Dr. Ginker introduces the main functionalities of `cfor
 
 ---
 
+## Installation
+
+The `cforecast` package is available on CRAN and can be installed directly in R:
+
+```r
+install.packages("cforecast")
+```
+
+---
+
 ## Repository Structure
 
 ```text
@@ -68,6 +79,7 @@ If you use this material in your research or teaching, please cite the intellect
   note         = {Accessed: 2026-05-10}
 }
 ```
+
 ---
 
 ## Additional Technical Resources
@@ -83,24 +95,18 @@ For further technical details, methodological discussion, and additional documen
 ## Disclaimer
 
 The views expressed here are solely those of the author and do not necessarily represent the views of the Bank of Israel or Bar-Ilan University.
-## License & Intellectual Property
 
-This material is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+---
+
+## License
+
+This material is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 © **Forecasting Economics — EconLab with Experts**. All rights reserved.
 
-The replication code, slides, and all intellectual content are the property of **Forecasting Economics — EconLab with Experts** and of the episode presenter as the intellectual author of the material.
+You are free to use and build upon this material for non-commercial purposes, provided you give appropriate credit to the author and this repository, and share any derivative work under the same license. Commercial use is not permitted.
 
-**You may not:**
-- Use this material for commercial purposes or economic gain
-- Reproduce, distribute, or adapt this content without proper citation
-- Use the replication code without citing the intellectual author
-
-**If you use this material, you must cite:**
-- The presenter/author of the episode (see Presenter section above)
-- This repository and Forecasting Economics as the source
-
-For permissions, licensing inquiries, or any questions on proper use, contact:  
+For permissions or licensing inquiries, contact:  
 📧 [juan.damico@forecastingeconomics.com](mailto:juan.damico@forecastingeconomics.com)
 
 ---

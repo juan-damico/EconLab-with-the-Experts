@@ -32,9 +32,9 @@ Bridging academic rigor with applied economic practice
 
 ## ABOUT THE SERIES
 
-**EconLab with the Experts** is a practitioner-facing series produced by **Forecasting Economics** — one of the leading applied economics education channels.
+**EconLab with the Experts** is a practitioner-facing series produced by **Forecasting Economics**, led by economist Juan D'Amico. It has established itself as one of the leading applied economics education channels.
 
-Each episode is led by an active academic researcher or senior practitioner — economists who publish, teach at the university level, and work at the frontier of their field. They present their own applied work: real models, real data, real decisions, documented from start to finish in a fully reproducible format.
+Each episode features an active academic researcher or senior practitioner — economists who publish, teach at the university level, and work at the frontier of their field. They present their own applied work: real models, real data, real decisions, documented from start to finish in a fully reproducible format.
 
 > _"The gap between knowing the theory and running the model is where most graduates get stuck. EconLab closes that gap."_
 

@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-## Episode 02 — What Drives the Scenario? Interpreting Conditional Forecasts in Reduced-Form VARs
+## Episode 01 — What Drives the Scenario? Interpreting Conditional Forecasts in Reduced-Form VARs
 
 ![Language](https://img.shields.io/badge/R-4.3-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Status](https://img.shields.io/badge/status-replication--ready-4a7c59?style=flat-square)

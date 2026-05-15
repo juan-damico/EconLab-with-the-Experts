@@ -2,131 +2,203 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/juan-damico/forecasting-economics/main/assets/Logo2.png" width="320" alt="EconLab with the Experts"/>
-
-<br/><br/>
-
-## Episode 01 — What Drives the Scenario? Interpreting Conditional Forecasts in Reduced-Form VARs
-
-![Language](https://img.shields.io/badge/R-4.3-276DC3?style=flat-square&logo=r&logoColor=white)
-![CRAN](https://img.shields.io/cran/v/cforecast?style=flat-square&label=CRAN&color=276DC3)
-![Status](https://img.shields.io/badge/status-replication--ready-4a7c59?style=flat-square)
-![Series](https://img.shields.io/badge/EconLab-Episode%2001-1a1a2e?style=flat-square)
-![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square)
-
-</div>
-
----
-
-## Presenter
-
-<img src="https://media.licdn.com/dms/image/v2/C4D03AQHK8gusQVNNNQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1599928939138?e=1779926400&v=beta&t=KMO1sNYnAty9nN2Ybmjk7af0IwfR2WY8LoqiS6tWeXo" width="160" align="left" style="margin-right:20px; margin-bottom:8px;">
-
-<strong>Tim Ginker, PhD</strong> · Bank of Israel <br/>
-<em>Current Role: Econometrician</em><br/>
-Fields: Applied Macroeconomics · Time Series Econometrics 
+<img src="https://raw.githubusercontent.com/juan-damico/forecasting-economics/main/assets/EconLab2.png" width="420"/>
 
 <br/>
 
-📧 <a href="mailto:timginker@gmail.com">Contact</a> &nbsp;·&nbsp;
-🔗 <a href="https://www.linkedin.com/in/tim-ginker/">LinkedIn</a> &nbsp;·&nbsp;
-📄 <a href="https://scholar.google.com/citations?user=fWxgZdMAAAAJ&hl=en&oi=ao">Google Scholar</a> &nbsp;·&nbsp;
-📑 <a href="https://github.com/timginker/cforecast">Personal Github</a>
+# ECONLAB WITH THE EXPERTS
 
-<br clear="left"/>
+### From economic models to real-world applications
 
----
+<br/>
 
-## Overview
-
-In this tutorial, Dr. Ginker — the author of `cforecast` — introduces the package he developed for conducting scenario analysis in reduced-form VAR models. The tutorial walks through how to generate conditional forecasts using a Kalman filtering framework, impose path restrictions on selected variables, and decompose forecast revisions into variable-specific contributions. It also shows how to assess the relative importance of each variable in driving forecast outcomes, with direct applications to policy analysis, stress testing, and macro-financial forecasting.
-
-A key insight of this framework, emphasized throughout, is that reduced-form VARs serve as a **robust and transparent cross-check** for macroeconomic outlooks — complementing more complex structural models (such as DSGEs or SVARs) without relying on their identification assumptions. As Dr. Ginker and co-author Caspi put it: reduced-form forecasts are easier to implement, more robust to misspecification, and more transparent in their empirical content.
-
----
-
-## What You Will Learn
-
-By watching this tutorial, you will be able to:
-
-- **Generate conditional forecasts** using the `cforecast` package — imposing assumed future paths on selected variables within a reduced-form VAR, and obtaining the model-implied joint forecast consistent with those assumptions.
-
-- **Use Kalman filter observation weights** to go beyond the forecast itself and understand *what is driving it* — decomposing forecast revisions into quantifiable contributions from specific variables and specific quarters of the imposed scenario path.
-
-- **Distinguish overall from marginal variable importance** — separating the intrinsic weight the model assigns to each variable from the realized dynamics of the evaluation period, enabling ex ante assessment of which conditioning assumptions truly matter.
-
-- **Apply reduced-form VARs as a transparent cross-check** — interpreting scenario forecasts without requiring structural identification, and communicating results in a model-consistent, economically interpretable way.
-
----
-
-## Installation
-
-The `cforecast` package was developed by **Tim Ginker, PhD** and is available on CRAN. You can install it directly in R:
-
-```r
-install.packages("cforecast")
+```
+Bridging academic rigor with applied economic practice
 ```
 
+<br/>
+
+[![Subscribe](https://img.shields.io/badge/▶_SUBSCRIBE-Forecasting_Economics-CC0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5P21WGFO4WRUlAiGLcwymg?sub_confirmation=1)
+&nbsp;
+[![Website](https://img.shields.io/badge/🌐_WEBSITE-forecastingeconomics.com-0d1117?style=for-the-badge)](https://www.forecastingeconomics.com)
+
+<br/>
+
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+</div>
+
+<br/>
+
+## ABOUT THE SERIES
+
+**EconLab with the Experts** is a practitioner-facing series produced by **Forecasting Economics** — one of the leading applied economics education channels.
+
+Each episode is led by an active academic researcher or senior practitioner — economists who publish, teach at the university level, and work at the frontier of their field. They present their own applied work: real models, real data, real decisions, documented from start to finish in a fully reproducible format.
+
+> _"The gap between knowing the theory and running the model is where most graduates get stuck. EconLab closes that gap."_
+
+The series is built around four principles:
+
+| | |
+|:---:|:---|
+| **Expert-Led** | Each episode is presented by academics working at the frontier of applied and empirical economics |
+| **Transparency** | Every step is documented and reproducible |
+| **Depth** | Real models, real data, real decisions |
+| **Accessibility** | An open, high-value resource for economists, finance professionals, and applied researchers looking to engage with advanced, real-world models |
+
+<br/>
+
 ---
 
-## Repository Structure
+<br/>
 
-```text
-Episode-01-Interpreting Conditional Forecasts in Reduced-Form VARs/
-├── Code/           # Replication Code
-├── Paper/          # Research Paper
-├── Slides/         # Presentation slides
-└── README.md
+## EPISODE INDEX
+
+<br/>
+
+> **Season 1 — Now Airing**
+
+<br/>
+
+<table>
+<thead>
+<tr>
+<th align="center">EP.</th>
+<th>TOPIC</th>
+<th>PRESENTER</th>
+<th>AFFILIATION</th>
+<th align="center">VIDEO</th>
+<th align="center">REPOSITORY</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>01</strong></td>
+<td><strong>VAR Forecasting</strong><br/><sub>Interpreting Conditional Forecasts in Reduced-Form VARs</sub></td>
+<td>Tim Ginker, PhD</td>
+<td>Bank of Israel</td>
+<td align="center"><a href="https://youtube.com"><img src="https://img.shields.io/badge/WATCH-CC0000?style=flat-square&logo=youtube&logoColor=white"/></a></td>
+<td align="center"><a href="https://github.com/juan-damico/EconLab-with-the-Experts/tree/main/Episode-01-Interpreting%20Conditional%20Forecasts%20in%20Reduced-Form%20VARs"><img src="https://img.shields.io/badge/REPOSITORY-0d1117?style=flat-square&logo=github&logoColor=white"/></a></td>
+</tr>
+
+<tr>
+<td align="center"><strong>02</strong></td>
+<td><em>Coming Soon</em></td>
+<td>—</td>
+<td>—</td>
+<td align="center">—</td>
+<td align="center">—</td>
+</tr>
+
+<tr>
+<td align="center"><strong>03</strong></td>
+<td><em>Coming Soon</em></td>
+<td>—</td>
+<td>—</td>
+<td align="center">—</td>
+<td align="center">—</td>
+</tr>
+</tbody>
+</table>
+
+<sub>New episodes added regularly — <a href="https://www.youtube.com/channel/UC5P21WGFO4WRUlAiGLcwymg">watch the full series →</a></sub>
+
+<br/>
+
+---
+
+<br/>
+
+## EPISODE STRUCTURE
+
+Each episode ships as a **self-contained, fully reproducible repository**:
+
+```
+Episode-XX/
+├── code/          ← Fully replicable scripts
+├── data/          ← Dataset used in the analysis
+├── figures/       ← Output figures and results
+├── slides/        ← Presentation materials
+└── paper/         ← References and supporting material
 ```
 
----
+No black boxes. Every result can be traced back to the raw data.
 
-## Citation
-
-If you use this material in your research or teaching, please cite the intellectual author of this episode:
-
-```bibtex
-@techreport{CaspiGinker2026,
-  author       = {Itamar Caspi and Tim Ginker},
-  title        = {What Drives the Scenario? Interpreting Conditional Forecasts in Reduced-Form VARs},
-  year         = {2026},
-  institution  = {ResearchGate},
-  url          = {https://www.researchgate.net/publication/401240812_What_Drives_the_Scenario_Interpreting_Conditional_Forecasts_in_Reduced-Form_VARs},
-  note         = {Accessed: 2026-05-10}
-}
-```
+<br/>
 
 ---
 
-## Additional Technical Resources
+<br/>
 
-For further technical details, methodological discussion, and additional documentation related to the underlying research paper and the `cforecast` package, please visit the official repository maintained by **Tim Ginker, PhD**:
+## TOPICS COVERED
 
-🔗 https://github.com/timginker/cforecast
+The series spans the full landscape of applied quantitative economics:
 
-🔗 https://github.com/timginker/wex
+<br/>
+
+| Area | Scope |
+|------|-------|
+| Time Series & Forecasting | VAR, SVAR, VECM, BVAR, ARIMA, ARCH/GARCH, state-space models (Kalman filter), exponential smoothing (ETS, Holt–Winters), local projections, ARDL, Markov switching |
+| Econometrics | Linear models, IV, DiD, RDD, synthetic control, panel data (fixed and random effects), quantile regression, discrete choice models (logit/probit), Tobit |
+| Machine Learning & Automation | Random forests, gradient boosting (XGBoost, LightGBM), neural networks, nowcasting, data pipelines, API integration, web scraping, scalable workflows |
+| Finance & Quantitative Methods | Portfolio optimization (Markowitz), risk parity, volatility modeling (GARCH), Monte Carlo simulation, Black–Scholes, stress testing, dashboards and KPIs |
+| DSGE & General Equilibrium | RBC, New Keynesian models, financial frictions, heterogeneous agents, small open economy models, trade models, MIU/Sidrauski frameworks |
+| Applied Macroeconomics | Growth models (Solow, Ramsey, AK, Romer), trade, search and matching, OLG models, recession indicators, nowcasting, SVAR-based scenario analysis |
+
+<br/>
 
 ---
 
-## Disclaimer
+<br/>
 
-The views expressed here are solely those of the author and do not necessarily represent the views of the Bank of Israel or Bar-Ilan University.
+## CALL FOR PRESENTERS
 
----
+EconLab is actively seeking experts to contribute to upcoming episodes.
 
-## License
+We welcome academic researchers, faculty, and practitioners with a strong applied focus who are interested in presenting their work in a structured and reproducible format.
 
-This material is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Selected contributors will receive detailed guidelines and support materials to prepare their session.
 
-© **Forecasting Economics — EconLab with Experts**. All rights reserved.
-
-You are free to use and build upon this material for non-commercial purposes, provided you give appropriate credit to the author and this repository, and share any derivative work under the same license. Commercial use is not permitted.
-
-For permissions or licensing inquiries, contact:  
 📧 [juan.damico@forecastingeconomics.com](mailto:juan.damico@forecastingeconomics.com)
 
 ---
 
+<br/>
+
+## LICENSE & INTELLECTUAL PROPERTY
+
+All series content is released under **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**.
+
+You are free to use and build upon this material for non-commercial purposes, provided you give appropriate credit to the presenter and this repository, and share any derivative work under the same license. Commercial use is not permitted.
+
+The intellectual content of each episode remains the property of its respective presenter. The series format, branding, and production are © **Forecasting Economics**.
+
+For permissions and inquiries: [juan.damico@forecastingeconomics.com](mailto:juan.damico@forecastingeconomics.com)
+
+<br/>
+
+---
+
+<br/>
+
 <div align="center">
-<sub>EconLab with Experts · Forecasting Economics · 2026</sub>
+
+<a href="https://www.forecastingeconomics.com">
+  <img src="https://raw.githubusercontent.com/juan-damico/forecasting-economics/main/assets/Large-2.png" width="160" alt="Forecasting Economics"/>
+</a>
+
+<br/><br/>
+
+[![YouTube](https://img.shields.io/badge/YouTube-CC0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5P21WGFO4WRUlAiGLcwymg?sub_confirmation=1)
+[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.forecastingeconomics.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juandamico)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@juan.damico)
+
+<br/>
+
+<sub>EconLab with the Experts &nbsp;·&nbsp; Forecasting Economics &nbsp;·&nbsp; 2026</sub>
+
+<br/>
+
 </div>

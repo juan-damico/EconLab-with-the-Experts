@@ -75,9 +75,9 @@ The series is built around four principles:
 <tbody>
 <tr>
 <td align="center"><strong>01</strong></td>
-<td><strong>VAR Forecasting</strong><br/><sub>Macroeconomic forecasting with VAR models</sub></td>
+<td><strong>VAR Forecasting</strong><br/><sub>Interpreting Conditional Forecasts in Reduced-Form VARs</sub></td>
 <td>Tim Ginker</td>
-<td>—</td>
+<td>Bank of Israel</td>
 <td align="center"><a href="https://youtube.com"><img src="https://img.shields.io/badge/WATCH-CC0000?style=flat-square&logo=youtube&logoColor=white"/></a></td>
 <td align="center"><a href="./Episode-01-VAR-Forecasting/"><img src="https://img.shields.io/badge/REPOSITORY-0d1117?style=flat-square&logo=github&logoColor=white"/></a></td>
 </tr>

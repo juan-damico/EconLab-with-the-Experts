@@ -39,13 +39,29 @@ Fields: Applied Macroeconomics · Time Series Econometrics
 
 ## Overview
 
-In the present tutorial, Dr. Ginker introduces the main functionalities of `cforecast`, an R package for scenario analysis in reduced-form VAR models. The tutorial demonstrates how to generate conditional forecasts using a Kalman filtering framework, impose path restrictions on selected variables, and decompose forecast revisions into variable-specific contributions. It also illustrates how to evaluate the relative importance of variables in shaping forecast outcomes, highlighting applications to policy analysis, stress testing, and macro-financial forecasting.
+In this tutorial, Dr. Ginker — the author of `cforecast` — introduces the package he developed for conducting scenario analysis in reduced-form VAR models. The tutorial walks through how to generate conditional forecasts using a Kalman filtering framework, impose path restrictions on selected variables, and decompose forecast revisions into variable-specific contributions. It also shows how to assess the relative importance of each variable in driving forecast outcomes, with direct applications to policy analysis, stress testing, and macro-financial forecasting.
+
+A key insight of this framework, emphasized throughout, is that reduced-form VARs serve as a **robust and transparent cross-check** for macroeconomic outlooks — complementing more complex structural models (such as DSGEs or SVARs) without relying on their identification assumptions. As Dr. Ginker and co-author Caspi put it: reduced-form forecasts are easier to implement, more robust to misspecification, and more transparent in their empirical content.
+
+---
+
+## What You Will Learn
+
+By watching this tutorial, you will be able to:
+
+- **Generate conditional forecasts** using the `cforecast` package — imposing assumed future paths on selected variables within a reduced-form VAR, and obtaining the model-implied joint forecast consistent with those assumptions.
+
+- **Use Kalman filter observation weights** to go beyond the forecast itself and understand *what is driving it* — decomposing forecast revisions into quantifiable contributions from specific variables and specific quarters of the imposed scenario path.
+
+- **Distinguish overall from marginal variable importance** — separating the intrinsic weight the model assigns to each variable from the realized dynamics of the evaluation period, enabling ex ante assessment of which conditioning assumptions truly matter.
+
+- **Apply reduced-form VARs as a transparent cross-check** — interpreting scenario forecasts without requiring structural identification, and communicating results in a model-consistent, economically interpretable way.
 
 ---
 
 ## Installation
 
-The `cforecast` package is available on CRAN and can be installed directly in R:
+The `cforecast` package was developed by **Tim Ginker, PhD** and is available on CRAN. You can install it directly in R:
 
 ```r
 install.packages("cforecast")

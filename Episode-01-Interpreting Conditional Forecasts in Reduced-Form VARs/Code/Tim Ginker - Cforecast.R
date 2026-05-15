@@ -15,7 +15,7 @@
 # research, please ensure that you properly cite the original author.
 #
 # Additional interview materials and citation information are available at:
-# https://github.com/juan-damico/EconLab-with-the-Experts/tree/main/Episode-02-Interpreting%20Conditional%20Forecasts%20in%20Reduced-Form%20VARs
+# https://github.com/juan-damico/EconLab-with-the-Experts/tree/main/Episode-01-Interpreting%20Conditional%20Forecasts%20in%20Reduced-Form%20VARs
 
 # Installation
 # install.packages("devtools")

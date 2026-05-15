@@ -84,11 +84,11 @@ The series is built around four principles:
 
 <tr>
 <td align="center"><strong>02</strong></td>
-<td><strong>Interpreting Conditional Forecasts</strong><br/><sub>Applied macroeconomic scenario analysis</sub></td>
-<td>Jamel Saadoui, PhD</td>
-<td>University of Paris 8</td>
-<td align="center"><a href="https://youtube.com"><img src="https://img.shields.io/badge/WATCH-CC0000?style=flat-square&logo=youtube&logoColor=white"/></a></td>
-<td align="center"><a href="./Episode-02-Interpreting-Conditional-Forecasts/"><img src="https://img.shields.io/badge/REPOSITORY-0d1117?style=flat-square&logo=github&logoColor=white"/></a></td>
+<td><em>Coming Soon</em></td>
+<td>—</td>
+<td>—</td>
+<td align="center">—</td>
+<td align="center">—</td>
 </tr>
 
 <tr>

@@ -67,6 +67,7 @@ By watching this tutorial, you will be able to:
   </a>
 </p>
 ---
+---
 
 ## Installation
 

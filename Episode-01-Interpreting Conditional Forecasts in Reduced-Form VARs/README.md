@@ -59,20 +59,13 @@ By watching this tutorial, you will be able to:
 
 ---
 
----
-
-## 🎥 Video Tutorial
+## Video Tutorial
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=TU_VIDEO_ID">
-    <img src="./assets/video-thumbnail.png" width="800" alt="Video Tutorial">
+    <img src="./assets/video-thumbnail.png" width="850">
   </a>
 </p>
-
-<p align="center">
-  <em>Click the image to watch the full tutorial</em>
-</p>
-
 ---
 
 ## Installation

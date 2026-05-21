@@ -59,6 +59,22 @@ By watching this tutorial, you will be able to:
 
 ---
 
+---
+
+## 🎥 Video Tutorial
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=TU_VIDEO_ID">
+    <img src="./assets/video-thumbnail.png" width="800" alt="Video Tutorial">
+  </a>
+</p>
+
+<p align="center">
+  <em>Click the image to watch the full tutorial</em>
+</p>
+
+---
+
 ## Installation
 
 The `cforecast` package was developed by **Tim Ginker, PhD** and is available on CRAN. You can install it directly in R:

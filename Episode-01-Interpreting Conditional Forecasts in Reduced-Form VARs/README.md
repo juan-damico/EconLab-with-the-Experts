@@ -57,7 +57,6 @@ By watching this tutorial, you will be able to:
 
 - **Apply reduced-form VARs as a transparent cross-check** — interpreting scenario forecasts without requiring structural identification, and communicating results in a model-consistent, economically interpretable way.
 
----
 
 ---
 

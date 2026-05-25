@@ -65,14 +65,13 @@ By watching this tutorial, you will be able to:
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Wrbl7b7lq-M">
     <img 
-      src="./assets/video-thumbnail.png" 
+      src="assets/video-thumbnail.png" 
       width="850"
       alt="Video Tutorial"
-    >
+    />
   </a>
 </p>
 
-[![Video Tutorial](https://img.youtube.com/vi/Wrbl7b7lq-M/0.jpg)](https://www.youtube.com/watch?v=Wrbl7b7lq-M)
 ---
 
 ## Installation

@@ -72,6 +72,7 @@ By watching this tutorial, you will be able to:
   </a>
 </p>
 
+[![Video](https://img.youtube.com/vi/Wrbl7b7lq-M/maxresdefault.jpg)](https://www.youtube.com/watch?v=Wrbl7b7lq-M)
 ---
 
 ## Installation

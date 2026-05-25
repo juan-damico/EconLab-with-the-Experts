@@ -63,7 +63,7 @@ By watching this tutorial, you will be able to:
 ## Video Tutorial
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=TU_VIDEO_ID">
+  <a href="[https://www.youtube.com/watch?v=TU_VIDEO_ID](https://youtu.be/Wrbl7b7lq-M)">
     <img 
       src="./assets/video-thumbnail.png" 
       width="850"

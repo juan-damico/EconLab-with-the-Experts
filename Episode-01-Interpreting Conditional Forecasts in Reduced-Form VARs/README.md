@@ -58,6 +58,7 @@ By watching this tutorial, you will be able to:
 - **Apply reduced-form VARs as a transparent cross-check** — interpreting scenario forecasts without requiring structural identification, and communicating results in a model-consistent, economically interpretable way.
 
 ---
+
 ## The Empirical Application Demonstration
 
 The empirical illustration uses U.S. quarterly data from 1986Q2 to 2015Q4, with a five-variable reduced-form VAR(2) selected by BIC. The variables are real GDP growth, core PCE inflation, the federal funds rate, the Moody's Baa–10Y corporate credit spread, and the WTI crude oil price.

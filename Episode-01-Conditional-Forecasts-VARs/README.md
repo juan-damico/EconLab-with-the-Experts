@@ -83,11 +83,7 @@ Energy price disruption: the WTI oil price rises sharply above baseline, peaking
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=Wrbl7b7lq-M">
-    <img 
-      src="assets/video-thumbnail.png" 
-      width="850"
-      alt="Video Tutorial"
-    />
+    <img src="https://img.youtube.com/vi/Wrbl7b7lq-M/maxresdefault.jpg" width="600" alt="Video Tutorial" />
   </a>
 </p>
 

@@ -134,7 +134,7 @@ If you use this material in your research or teaching, please cite the intellect
 
 ## Additional Technical Resources
 
-For further technical details, methodological discussion, and additional documentation related to the underlying research paper and the `cforecast` package, please visit the official repository maintained by **Tim Ginker, PhD**:
+For further technical details, detailed methodological discussion, and additional documentation related to the underlying research paper and the `cforecast` package, please visit the official repository maintained by **Tim Ginker, PhD**:
 
 🔗 https://github.com/timginker/cforecast
 

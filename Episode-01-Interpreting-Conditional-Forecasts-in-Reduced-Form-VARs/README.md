@@ -91,7 +91,14 @@ Energy price disruption: the WTI oil price rises sharply above baseline, peaking
 
 ## Installation
 
-The `cforecast` package was developed by **Tim Ginker, PhD** and is available on CRAN. You can install it directly in R:
+The `cforecast` package was developed by **Tim Ginker, PhD** and is available on CRAN. Can be pulled from Dr. Ginker's repository:
+
+```r
+# install.packages("devtools")
+devtools::install_github("timginker/cforecast")
+```
+
+You can consider installing it directly in R:
 
 ```r
 install.packages("cforecast")

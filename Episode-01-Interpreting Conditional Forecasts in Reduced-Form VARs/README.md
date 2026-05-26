@@ -73,9 +73,7 @@ Energy price disruption: the WTI oil price rises sharply above baseline, peaking
 
 <img src="https://github.com/timginker/cforecast/raw/master/man/figures/README-unnamed-chunk-3-1.png" width="700">
 
-<sub>
-Figure 1: Conditional forecast generated from the VAR model under a combined credit spread and oil price shock scenario.
-</sub>
+<p><em>Figure 1. Scenario forecast under financial tightening and an oil price shock.</em></p>
 
 </div>
 

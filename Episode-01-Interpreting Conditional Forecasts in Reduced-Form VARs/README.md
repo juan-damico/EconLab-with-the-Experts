@@ -59,7 +59,7 @@ By watching this tutorial, you will be able to:
 
 ---
 
-## The Empirical Application Demonstration
+## The Empirical Application
 
 The empirical illustration uses U.S. quarterly data from 1986Q2 to 2015Q4, with a five-variable reduced-form VAR(2) selected by BIC. The variables are real GDP growth, core PCE inflation, the federal funds rate, the Moody's Baa–10Y corporate credit spread, and the WTI crude oil price.
 The forecast exercise begins at 2016Q1, looking 20 quarters (five years) ahead.

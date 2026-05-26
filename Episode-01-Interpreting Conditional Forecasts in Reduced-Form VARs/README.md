@@ -69,6 +69,8 @@ The scenario combines two inputs that are common in policy and stress-testing wo
 Financial tightening: the corporate credit spread widens by approximately 200 basis points relative to baseline, remains elevated for several quarters, and then gradually normalises.
 Energy price disruption: the WTI oil price rises sharply above baseline, peaking around $75 per barrel within the first year, and then mean-reverts.
 
+![Scenario Forecast](https://github.com/timginker/cforecast/raw/master/man/figures/README-unnamed-chunk-3-1.png)
+
 ---
 
 ## Video Tutorial

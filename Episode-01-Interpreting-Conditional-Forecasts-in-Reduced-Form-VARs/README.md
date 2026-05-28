@@ -20,10 +20,7 @@
 
 ## Presenter
 
-<img src="https://i1.rgstatic.net/ii/profile.image/919034304413700-1596126261759_Q512/Tim-Ginker.jpg"
-     width="160"
-     align="left"
-     style="margin-right:20px; margin-bottom:8px;">
+![](https://i1.rgstatic.net/ii/profile.image/919034304413700-1596126261759_Q512/Tim-Ginker.jpg)
 
 <strong>Tim Ginker, PhD</strong> · Bank of Israel <br/>
 <em>Current Role: Econometrician</em><br/>

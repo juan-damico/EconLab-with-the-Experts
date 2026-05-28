@@ -20,8 +20,7 @@
 
 ## Presenter
 
-<img src="<img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/878ea6b2-d7df-4633-963d-2aad2d31b328" />
-" width="160" align="left" alt="Tim Ginker">
+<img src="https://github.com/user-attachments/assets/878ea6b2-d7df-4633-963d-2aad2d31b328" width="160" align="left" alt="Tim Ginker">
 <strong>Tim Ginker, PhD</strong> · Bank of Israel <br/>
 <em>Current Role: Econometrician</em><br/>
 Fields: Applied Macroeconomics · Time Series Econometrics
